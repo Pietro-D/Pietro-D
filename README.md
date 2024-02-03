@@ -2,7 +2,7 @@
 
 Hey there, I'm Pietro, a passionate Computer Engineering student. I'm dedicated to solving problems and building cool stuff using technology. 
 
-- 🌱 Currently exploring Machine Learning, Cloud Computing
+- 🌱 Currently exploring Machine Learning, Cloud Computing, Big Data.
 
 ## 🚀 Interests
 
@@ -27,8 +27,8 @@ I'm always open to connecting with fellow developers and enthusiasts. Find me on
 
 Here are some of the technologies and tools I work with:
 
-- **Languages**: Python, Java, C, SQL
-- **Technologies**: Spring Framework, Git, Docker, Linux 
+- **Languages**: Python, Java, C, SQL, Typescript, Haskell
+- **Technologies**: Spring Framework, Git, Docker, Linux, Spark,  
 - **Databases**: MySQL
 
 Thanks for visiting my GitHub profile! Let's connect and collaborate on exciting projects. 🚀
